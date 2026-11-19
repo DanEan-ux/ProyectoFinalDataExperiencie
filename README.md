@@ -40,7 +40,7 @@ ProyectoFinalDataExperiencie/
 ├── notebook/
 │   └── analisis_widebody.ipynb
 └── presentacion/
-    ├── presentacion.pdf
+    ├── presentacion.pdf                                      Presentación de apoyo
     └── figuras/                                              Gráficos generados por el notebook
 ```
 
@@ -100,4 +100,4 @@ En validación cruzada, el modelo completo obtiene un R² de 0,386 en OpenFlight
 
 ## Video
 
-[Enlace al video: pendiente]
+[Ver el video en YouTube](https://youtu.be/epMojBvQmIc)
