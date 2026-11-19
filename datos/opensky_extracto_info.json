@@ -1,0 +1,80 @@
+{
+  "fuente": "The OpenSky Network, Crowdsourced air traffic data (Zenodo, v21.12, CC-BY 4.0)",
+  "doi": "10.5281/zenodo.5815448",
+  "archivo_original": "flightlist_20191001_20191031.csv.gz",
+  "url_original": "https://zenodo.org/api/records/5815448/files/flightlist_20191001_20191031.csv.gz/content",
+  "sha256_original": "F49E9C40910BF62B1746BE39D447B757A41ED992D1F4337D08F5C4B41CCB629B",
+  "vuelos_totales": 2946779,
+  "columnas": [
+    "callsign",
+    "number",
+    "aircraft_uid",
+    "typecode",
+    "origin",
+    "destination",
+    "firstseen",
+    "lastseen",
+    "day",
+    "latitude_1",
+    "longitude_1",
+    "altitude_1",
+    "latitude_2",
+    "longitude_2",
+    "altitude_2"
+  ],
+  "pct_vacio_total": {
+    "callsign": 22.0,
+    "number": 79.8,
+    "aircraft_uid": 0.0,
+    "typecode": 26.6,
+    "origin": 27.1,
+    "destination": 21.1,
+    "firstseen": 0.0,
+    "lastseen": 0.0,
+    "day": 0.0,
+    "latitude_1": 0.0,
+    "longitude_1": 0.0,
+    "altitude_1": 0.0,
+    "latitude_2": 0.0,
+    "longitude_2": 0.0,
+    "altitude_2": 2.5
+  },
+  "vuelos_extracto": 181980,
+  "typecodes_por_familia": {
+    "A380": [
+      "A388"
+    ],
+    "747": [
+      "B741",
+      "B742",
+      "B743",
+      "B744",
+      "B748",
+      "B74S",
+      "B74R"
+    ],
+    "A350": [
+      "A359",
+      "A35K"
+    ],
+    "777": [
+      "B772",
+      "B77L",
+      "B773",
+      "B77W",
+      "B778",
+      "B779"
+    ],
+    "A330": [
+      "A332",
+      "A333",
+      "A338",
+      "A339"
+    ],
+    "787": [
+      "B788",
+      "B789",
+      "B78X"
+    ]
+  }
+}

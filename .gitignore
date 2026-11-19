@@ -1,0 +1,6 @@
+# Original de OpenSky (242 MB): supera el límite de 100 MB de GitHub.
+# Se puede volver a descargar con datos/crear_extracto_opensky.py
+datos/flightlist_*.csv.gz
+
+.ipynb_checkpoints/
+__pycache__/
